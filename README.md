@@ -103,4 +103,4 @@ charts). No external libraries — everything is native spreadsheet logic, match
 teams commonly track these metrics operationally.
 
 ## Author
-Pavankumar — Clinical Data Management / Pharmacovigilance, Bengaluru, India
+Nishanth  — Clinical Data Management / Pharmacovigilance, Chennai , India
